@@ -1,0 +1,3 @@
+datetime,nbbike,nbdock,nbbikeoverflow,nbfreedock,nbebike,nbedock,nbebikeoverflow,nbfreeedock,station_state,kioskstate,maxbikeoverflow,creditcard,station_type,overflowactivation,station_code,overflow,duedate,densitylevel
+2020-02-12T14:05:00.641Z,0,null,0,null,0,0,null,0,"Operative","yes",null,"yes",null,"no","99999992",null,null,null
+2020-02-17T10:19:00.607Z,0,null,0,null,0,0,null,0,"Operative","yes",null,"yes",null,"no","99999992",null,null,null

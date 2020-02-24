@@ -1,0 +1,7 @@
+datetime,nbbike,nbdock,nbbikeoverflow,nbfreedock,nbebike,nbedock,nbebikeoverflow,nbfreeedock,station_state,kioskstate,maxbikeoverflow,creditcard,station_type,overflowactivation,station_code,overflow,duedate,densitylevel
+2020-01-07T10:47:00.573Z,0,4,41,4,0,0,7,0,"Operative","yes",5,"yes","no","no","0001","no","2018-02-27","0"
+2020-01-24T09:59:00.504Z,0,4,41,4,0,0,6,0,"Operative","yes",5,"yes","no","no","0001","no","2018-02-27","0"
+2020-01-24T10:02:00.802Z,0,4,41,4,0,0,6,0,"Operative","yes",5,"yes","no","no","0001","no","2018-02-27","0"
+2020-01-24T10:07:00.682Z,0,4,41,4,0,0,6,0,"Operative","yes",5,"yes","no","no","0001","no","2018-02-27","0"
+2020-02-20T13:19:01.472Z,0,null,41,null,0,0,null,0,"Operative","yes",null,"yes",null,"no","0001",null,null,null
+2020-02-20T13:34:00.646Z,0,null,41,null,0,0,null,0,"Operative","yes",null,"yes",null,"no","0001",null,null,null

@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: master
+  schedule:
+    - cron:  '*/15 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Fetch velib data
+      run: ./script.sh
+        
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add data for $(date)" -a --amend --date "$(date)"
+    - name: Push changes
+      uses: ad-m/github-push-action@02b0b75d447f0098d40d0d65a3e6cdf2119e6f60
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true

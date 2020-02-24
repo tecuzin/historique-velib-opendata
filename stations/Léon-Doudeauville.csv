@@ -1,0 +1,13 @@
+datetime,nbbike,nbdock,nbbikeoverflow,nbfreedock,nbebike,nbedock,nbebikeoverflow,nbfreeedock,station_state,kioskstate,maxbikeoverflow,creditcard,station_type,overflowactivation,station_code,overflow,duedate,densitylevel
+2020-01-03T06:32:01.178Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T06:47:00.457Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T07:02:01.408Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T07:17:00.586Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T07:32:00.673Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T07:47:00.880Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T08:02:00.622Z,0,0,0,0,0,0,0,0,"Work in progress","no",0,"no","no","no","18141","no","2019-12-31","1"
+2020-01-03T08:17:01.181Z,0,0,0,0,0,19,0,19,"Work in progress","no",0,"no","yes","no","18141","no","2019-12-31","1"
+2020-01-03T08:32:00.652Z,0,0,0,0,0,19,0,19,"Work in progress","no",0,"no","yes","no","18141","no","2020-01-02","1"
+2020-01-03T08:47:01.282Z,0,0,0,0,0,19,0,19,"Operative","no",0,"no","yes","no","18141","no","2020-01-03","1"
+2020-01-03T09:02:01.157Z,0,0,0,0,0,19,0,19,"Operative","yes",0,"no","yes","no","18141","no","2020-01-03","1"
+2020-01-03T09:17:00.480Z,0,0,0,0,0,19,0,19,"Operative","yes",0,"no","yes","no","18141","no","2020-01-03","1"

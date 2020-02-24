@@ -1,0 +1,11 @@
+datetime,nbbike,nbdock,nbbikeoverflow,nbfreedock,nbebike,nbedock,nbebikeoverflow,nbfreeedock,station_state,kioskstate,maxbikeoverflow,creditcard,station_type,overflowactivation,station_code,overflow,duedate,densitylevel
+2020-01-14T08:17:00.658Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T08:32:01.389Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T08:47:00.535Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T09:02:05.986Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T09:17:22.629Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T09:32:02.575Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T09:47:00.838Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T10:02:01.349Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T10:17:00.815Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
+2020-01-14T10:32:00.950Z,0,0,0,0,0,0,0,0,"Operative","no",0,"no","no","no","099","no","2020-01-12","0"
